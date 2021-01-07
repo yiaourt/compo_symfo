@@ -1,0 +1,2 @@
+# compo_symfo
+"compo_symfo" est script Bash(Linux) qui permet de lancer une maquette d'un site web (Symfony) pour y faciliter la conception, le script se charge de vous demandez si vous avez besoin d'installer tout un serveur sur votre machine ainsi que tous les composants (composer, git, symfony) et vous laisses le choix de la maquette à créer, maquette qui, une fois créer, vous permets d'avoir un site prototype prêt à être entièrement modifier !
