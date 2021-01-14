@@ -14,7 +14,8 @@
                (pas d'option) : 
                              Déroulement du script dans le projet symfony créer précedement! --->
                              
-         - Installation de filesystem, apache-pack, Webpack-Encore, Node-Sass, PostCSS et autoprefixer pour Symfony.
+         - Installation de filesystem, apache-pack, Webpack-Encore, Node-Sass, PostCSS et autoprefixer
+         pour le projet Symfony.
          - Debug de la "Debug Toolbar" de Profiler (du à la configuration d'apache)
          - Configuration de Webpack-Encore.
          - Configuration des fichiers assets (JS et SCSS).
