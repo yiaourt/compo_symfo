@@ -11,7 +11,7 @@
  Pour Debian/Ubuntu (Contactez moi pour une version Arch avec Pacman.. etc ...)
       
        Options : 
-               (pas d'option) : 
+               (pas d'options) : 
                              Déroulement du script dans le projet symfony créer précedement! --->
                              
          - Installation de filesystem, apache-pack, Webpack-Encore, Node-Sass, PostCSS et autoprefixer
