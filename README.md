@@ -3,12 +3,12 @@
 
 
 
- Utilisation : compo_symfo(.sh) [OPTION: -new]
+ **Utilisation :** compo_symfo(.sh) [OPTION: -new]
  
- Usage: Dans le dossier racine du projet Symfony créer précedement! -> ./compo_symfo(.sh)
+ **Usage :** Dans le dossier racine du projet Symfony créer précedement! -> ./compo_symfo(.sh)
         Ou alors dans le dossier "/var/www/" avec l'option new -> ./compo_symfo(.sh) -new
  
- Pour Debian/Ubuntu (Contactez moi pour une version Arch avec Pacman.. etc ...)
+ **Pour Debian/Ubuntu (Contactez moi pour une version Arch avec Pacman.. etc ...)**
       
        Options : 
                (pas d'options) : 
@@ -36,4 +36,4 @@
         - ensuite, création du projet symfony
         - puis on passe à la suite du script comme si il ni avait pas eu l'option -new
 
- Yiaourt oY
+ **Yiaourt oY**
